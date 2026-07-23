@@ -8,4 +8,3 @@ $rectangle = new Rectangle(8, 23);
 echo "rectangle area: " . $rectangle->calculateArea();
 echo PHP_EOL;
 echo "triangle area: " . $triangle->calculateArea();
-?>
